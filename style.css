@@ -157,6 +157,7 @@
     height: 55%;
     max-height: 440px;
     max-width: 260px;
+    min-width: 240px;
     width: 18%;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -168,6 +169,7 @@
     height: 55%;
     width: 18%;
     max-height: 440px;
+    min-width: 240px;
     max-width: 260px;
     padding-top: 50px;
     padding-left: 40px;
@@ -177,6 +179,7 @@
     height: 55%;
     width: 18%;
     max-height: 440px;
+    min-width: 240px;
     max-width: 260px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -250,3 +253,4 @@
     display: none;
   }
 }
+
